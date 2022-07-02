@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Controllers\New page\" />
     <Folder Include="Models\" />
     <Folder Include="wwwroot\images\" />
   </ItemGroup>
